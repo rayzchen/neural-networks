@@ -1,7 +1,7 @@
 import pickle
 import gzip
 import numpy as np
-from backprop_activations import Network
+from backprop_initializations import Network
 
 def load_data():
     f = gzip.open("mnist.pkl.gz", "rb")
