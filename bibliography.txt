@@ -1,0 +1,7 @@
+http://neuralnetworksanddeeplearning.com/chap1.html
+http://neuralnetworksanddeeplearning.com/chap2.html
+http://neuralnetworksanddeeplearning.com/chap3.html
+https://paperswithcode.com/method/nesterov-accelerated-gradient
+https://jlmelville.github.io/mize/nesterov.html#Sutskever_Nesterov_Momentum
+
+https://medium.com/@danushidk507/ppo-algorithm-3b33195de14a

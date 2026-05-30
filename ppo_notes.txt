@@ -1,0 +1,17 @@
+Actor network: probability of performing action given a state s
+Critic network: estimates the value function given a state s
+discount factor (gamma)
+clipping parameter (epsilon)
+gae parameter (lambda)
+
+rollout episodes
+compute advantages
+
+loss function:
+average over all time steps t
+(
+    A^GAE * min(
+        probability ratio,
+        clip(probability ratio, 1 - epsilon, 1 + epsilon)
+    )
+)
